@@ -2,10 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1884faa3-33e3-430a-8863-044e87c6922a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ZbioryExm1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/KolekcjeExp1/ListaExm1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/KolekcjeExp1/ListaExm1.class" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -76,6 +73,14 @@
       <option name="presentableId" value="Default" />
       <updated>1576324172051</updated>
     </task>
+    <task id="LOCAL-00001" summary="Dodanie klasy ZiobryExm1">
+      <created>1576330865830</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1576330865830</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -88,5 +93,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Dodanie klasy ZiobryExm1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Dodanie klasy ZiobryExm1" />
   </component>
 </project>

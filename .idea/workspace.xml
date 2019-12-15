@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1884faa3-33e3-430a-8863-044e87c6922a" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/MapyExm1.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -40,9 +41,16 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.ZbioryExm1">
+  <component name="RunManager" selected="Application.MapyExm1">
     <configuration name="ListaExm1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="ListaExm1" />
+      <module name="KolekcjeExp1" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MapyExm1" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="MapyExm1" />
       <module name="KolekcjeExp1" />
       <method v="2">
         <option name="Make" enabled="true" />
@@ -57,6 +65,7 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.MapyExm1" />
         <item itemvalue="Application.ZbioryExm1" />
         <item itemvalue="Application.ListaExm1" />
       </list>
@@ -80,7 +89,14 @@
       <option name="project" value="LOCAL" />
       <updated>1576330865830</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Zmiany w klasie ZbioryExm1">
+      <created>1576331817101</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1576331817101</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -96,6 +112,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Dodanie klasy ZiobryExm1" />
-    <option name="LAST_COMMIT_MESSAGE" value="Dodanie klasy ZiobryExm1" />
+    <MESSAGE value="Zmiany w klasie ZbioryExm1" />
+    <option name="LAST_COMMIT_MESSAGE" value="Zmiany w klasie ZbioryExm1" />
   </component>
 </project>
